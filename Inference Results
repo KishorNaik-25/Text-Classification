@@ -1,0 +1,31 @@
+Model Loaded!!
+INPUT text:  I call service center many times but he not come for looking what happened and not pickup call
+OUTPUT:  service center issue
+Inference time: 2.628s
+INPUT text:  14 lakh rupees 2 month before to purchase one the best product of maruti suzuki india and one of the best sedan car of maruti suzuki india
+OUTPUT:  other
+Inference time: 0.057s
+INPUT text:  Maruti suzuki should be directly responsible for the defects and problems in the engine silencer and meter board
+OUTPUT:  manufacture defective
+Inference time: 0.056s
+INPUT text:  9th august rear tyre condition On next two days on 12th august goodyear engineer came he inspect the tyre (As per nexa team) and reject the claim and said that tyre was run on low air pressure
+OUTPUT:  defective part of vehicle
+Inference time: 0.037s
+INPUT text:  Maruti suzuki should be directly responsible for the defects and problems in the engine silencer and meter board
+OUTPUT:  manufacture defective
+Inference time: 0.034s
+INPUT text:  But till date the music system is not repaired and they asked me further 2 days after giving 10 days from delivery of the car
+OUTPUT:  service center issue
+Inference time: 0.043s
+INPUT text:  Even i did not get any proper response from center also
+OUTPUT:  service center issue
+Inference time: 0.048s
+INPUT text:  When we raise the complaint for the new car vehicle0
+OUTPUT:  manufacture defective
+Inference time: 0.034s
+INPUT text:  ItÂ’s time to moral responsibility to raise the complaint by maruti india and take it seriously  He told me that it is the process that customer has to raise the complaints
+OUTPUT:  other
+Inference time: 0.033s
+INPUT text:  Still i have not getting the service report from good year tyre which inspection was don on 27th august.
+OUTPUT:  other
+Inference time: 0.035s
